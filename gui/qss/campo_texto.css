@@ -1,0 +1,19 @@
+QLineEdit {
+    selection-background-color: #505065;
+    /* background-color: #dadadd; */
+    background-color: #2f2f35;
+    border-radius: 8px;
+    /* color: #202020; */
+	text-indent: 10px;
+    color: #fafaff;
+    padding: 1rem;
+    margin: 1rem;
+    height: 35px;
+    border: none;
+    width: auto;
+}
+
+QLineEdit:read-only {
+    background: #0f0f15;
+    color: #dadadd;
+}

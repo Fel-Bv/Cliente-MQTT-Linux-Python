@@ -1,0 +1,15 @@
+QMenu, QMenuBar {
+    font-family: 'Arial';
+    font-size: 15px;
+}
+
+QMenu {
+    border-radius: 10px;
+    color: white;
+    padding: 1rem;
+    border: none;
+}
+
+QMenuBar {
+    color: white;
+}
